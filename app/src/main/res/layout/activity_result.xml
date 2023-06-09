@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/screen_background_gradient"
+    tools:context=".ResultActivity">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:orientation="vertical">
+
+
+        <ImageView
+            android:id="@+id/firePng"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_centerInParent="true"
+            android:src="@drawable/firepng"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/marks"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/firePng"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:text="10/10"
+            android:textSize="40sp" />
+
+        <TextView
+            android:id="@+id/backResult"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/marks"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="40dp"
+            android:background="@drawable/blur_white"
+            android:padding="20dp"
+            android:text="Back"
+            android:textAlignment="center"
+            android:textSize="30sp" />
+
+
+    </LinearLayout>
+
+
+</RelativeLayout>
