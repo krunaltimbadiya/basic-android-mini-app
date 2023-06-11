@@ -29,16 +29,18 @@
 --------------------------------------------------------------------------------------------------------------------------------
 ### FAQs
 1. Other Questions.<br>
-    -->if you want to add new question plese contect admin @krunl_timbadiya
+    -->if you want to add new question plese contect admin @krunal_timbadiya
 
 --------------------------------------------------------------------------------------------------------------------------------
 ### ADMIN
 if You need some help releted this app contect admin
 1.Krunal timbadiya.    -->instagram:: _krunalpatel06
-2.Harsh malvaniya.     -->instagram:: malvaniya_harsh
-3.Jayraj makavana.     -->instagram:: Jayrajmakawana__
-
 -------------------------------------------------------------------------------------------------------------------------------
+### SUPPORT BY
+1. Harsh Malvaniya
+2. Jayraj Makavana
+-------------------------------------------------------------------------------------------------------------------------------
+
 ###project...
 R.B institute of management,hirawadi.
 MCA sem 2
